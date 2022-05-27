@@ -2,7 +2,7 @@
 ### Relatório em Power BI com o intuito de tornar prática a visualização dos principais indicadores e análises do setor comercial/marketing.
 
 ### Informações Principais
-![Informações Principais](https://github.com/LuanF22/Relatorio_Setor_Comercial-PowerBI/blob/main/Imagens/Informa%C3%A7%C3%B5es%20Principais.png)
+![Informações Principais](https://github.com/LuanF22/Relatorio_Setor_Comercial-PowerBI/blob/main/Imagens/Informacoes%20Principais.png)
 
 ### Vendas
 ![Vendas](https://github.com/LuanF22/Relatorio_Setor_Comercial-PowerBI/blob/main/Imagens/Vendas.png)
